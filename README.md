@@ -1,9 +1,9 @@
-📄 Image Forensic Suite
+Image Forensic Suite
 Explainable AI for Document Forgery Detection
 
 An advanced AI-powered Image Forensic Suite that goes beyond traditional OCR by performing a multi-layered forensic analysis to detect digital manipulation in documents.
 
-🚀 Overview
+Overview
 
 This project combines image processing, OCR, and statistical analysis to identify hidden signs of tampering in documents such as receipts, certificates, and IDs.
 
